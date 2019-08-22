@@ -1,0 +1,11 @@
+.button{
+    flex: 1 25%;
+    height: 60px;
+    font-size: 25px;
+  }
+  .button.operator{
+    background-color: orange
+  }
+  .button.clear{
+    background-color: grey
+  }
